@@ -117,5 +117,3 @@ I specialize in building a Beautiful and Responsive FrontEnd that does all the h
 
 <br/>  
 
-
-<br />
