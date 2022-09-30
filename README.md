@@ -119,6 +119,3 @@ I specialize in building a Beautiful and Responsive FrontEnd that does all the h
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
