@@ -21,9 +21,13 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
+As a full-stack developer, I have a versatile skill set that enables me to create not only visually appealing and user-friendly front-end interfaces for websites and applications but also to bolster them with cutting-edge back-end functionalities.
 
-I specialize in building a Beautiful and Responsive FrontEnd that does all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization, and also promising technologies like Blockchain and PWAs.  
+My expertise lies in crafting front-end experiences that not only look stunning but also handle the heavy lifting required to make your app or website perform seamlessly. I take pride in designing systems that strike a balance between being lightweight yet robust, distributed while maintaining synchronization, and embodying both aesthetic beauty and functional effectiveness.
+
+In addition to my development work, I am passionate about sharing my knowledge with others. I frequently contribute to the tech community through blogging. My blog covers a wide range of topics related to the intricate world behind the screen, including system design, database management, security measures, server architecture, optimization strategies, and emerging technologies such as Blockchain and Progressive Web Apps (PWAs).
+
+In essence, I'm dedicated to creating digital solutions that not only captivate users with their visual appeal but also empower them with efficient and secure functionalities, all while staying at the forefront of technological advancements in the field.  
   
 
 <br/>  
