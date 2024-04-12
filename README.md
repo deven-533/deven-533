@@ -94,12 +94,8 @@ In essence, I'm dedicated to creating digital solutions that not only captivate 
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=deven-533&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deven-533&hide_border=true&layout=compact" align="left" style="width: 100%" />
+![Deven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deven-533&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 </td></tr></table>  
 
